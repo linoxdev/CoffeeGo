@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="ChallengeCompose.app" target="21" />
+      <module name="ChallengeCompose.buildSrc" target="21" />
+      <module name="ChallengeCompose.buildSrc.main" target="21" />
+      <module name="ChallengeCompose.buildSrc.test" target="21" />
+      <module name="ChallengeCompose.core.data" target="21" />
+      <module name="ChallengeCompose.core.designsystem" target="21" />
+      <module name="ChallengeCompose.core.navigation" target="21" />
+      <module name="ChallengeCompose.core.ui" target="21" />
+      <module name="ChallengeCompose.feature.detail.presentation" target="21" />
+      <module name="ChallengeCompose.feature.home.data" target="21" />
+      <module name="ChallengeCompose.feature.home.domain1" target="21" />
+      <module name="ChallengeCompose.feature.home.presentation" target="21" />
+      <module name="ChallengeCompose.feature.splash" target="21" />
+      <module name="ChallengeCompose.lab" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
