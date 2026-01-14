@@ -66,6 +66,11 @@ CoffeeGo/
 ```
 
 ## Preview
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/042bbdae-6ca3-42e6-b856-1bbffc52897e" controls="controls" muted="muted" width="600">
+  </video>
+</div>
+
 
 
 
