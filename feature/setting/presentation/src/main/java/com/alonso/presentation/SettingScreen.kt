@@ -122,7 +122,7 @@ private fun ThemeSettingItem(
             )
             Spacer(modifier = Modifier.width(8.dp))
             Text(
-                "Modo Oscuro",
+                "Dark mode",
                 style = CoffeeGoTheme.typography.commonMediumTextStyle.copy(
                     color = CoffeeGoTheme.colors.textColor,
                     textAlign = TextAlign.Center,
